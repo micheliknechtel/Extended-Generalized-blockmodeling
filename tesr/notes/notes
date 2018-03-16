@@ -1,0 +1,70 @@
+//    char *ptr_array[40]= {
+//        "-directory",
+//        "/Users/micheliknechtel/Documents/xCode/GGBlockModeling/tesr",
+//        "-relationMatrix",
+//        "/networks/xml/BB_S01E01_002.graphml",
+//        "-modelName",
+//        "/model/model_01.lp",
+//        "-idealBlock",
+//        "/idealBlock/FM_06",
+//        "-matrixDataType",
+//        "XML",
+//        "-emtyCluster",
+//        "TRUE",
+//        "-clusterUpperBound",
+//        "4",
+//        "-preProcessingMode",
+//        "TRUE",
+//        "-AdditionalConstraint",
+//        "TRUE",
+//        "-model",
+//        "TRUE",
+//        "-heuristic",
+//        "TRUE",
+//        "-executionTime",
+//        "3600",
+//        "-log",
+//        "FALSE",
+//        "-optimizedCode",
+//        "TRUE",
+//        "-strategy",
+//        "FIRST_EQUAL_OR_BEST_SOLUTION",
+//        "-numRootPartitions",
+//        "6",
+//        "-datacheck",
+//        "FALSE",
+//        "-predefinedPartition",
+//        "/predefinedPartions/predefinedPartition_01",
+//        "-partitionCheck_01",
+//        "/partitionCheck/partitionCheck_01",
+//        "-partitionCheck_02",
+//        "/partitionCheck/partitionCheck_02"
+//    };
+//    Parameters * parameters = new Parameters();
+//    parameters->loadingFromCommandLine(39, ptr_array);
+
+
+FOUND SOLUTION
+----------------------------------------------------
+DestiatonMesuare = 5
+ElapsedTime      = 0 (in seconds)
+----------------------------------------------------
+PARTITION
+----------------------------------------------------
+C0 = { 3 , 2 , 0 }
+C1 = { 1 }
+----------------------------------------------------
+DEVIATION MEASURE & IMAGE MATRIX
+----------------------------------------------------
+2+   1+     |    CBDO NBDZ
+1+   1+     |    NBDZ CBDO
+----------------------------------------------------
+PARTITION MATRIX
+----------------------------------------------------
+
+3| 0+1+1+ 0+
+2| 1+0+1+ 0+
+0| 1+1+1+ 1+
+
+
+./GBModeling -directory /users/knechtel/gbmodeling/data/ -relationMatrix directional/N_25__k_4__mu_0.6__maxk_24_network_006_010.dat -idealBlock /idealBlock/FM_06 -matrixDataType EDGES -clusterUpperBound 4 -model FALSE -heuristic TRUE -executionTime 3600 -log FALSE -optimizedCode TRUE -strategy FIRST_EQUAL_OR_BEST_SOLUTION -numRootPartitions 6 -datacheck FALSE -predefinedPartition heuristic/predefinedPartion/predefinedPartition_01 -partitionCheck_01 heuristic/partitionCheck/partitionCheck_01 -partitionCheck_02 heuristic/partitionCheck/partitionCheck_02

@@ -1,0 +1,9 @@
+N 15 -k 0.75 -mu 0.3 -maxk 1.25
+N 25 -k 4 -mu 0.3 -maxk 24
+N 50 -k 22 -mu 0.3 -maxk 49
+N 100 -k 44 -mu 0.3 -maxk 99
+N 200 -k 88 -mu 0.3 -maxk 199
+N 300 -k 133 -mu 0.3 -maxk 299
+N 400 -k 177 -mu 0.3 -maxk 399
+N 500 -k 222 -mu 0.3 -maxk 499
+

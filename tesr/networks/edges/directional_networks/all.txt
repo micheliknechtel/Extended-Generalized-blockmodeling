@@ -1,0 +1,2576 @@
+N 15 -k 4 -mu 0.3 -maxk 14
+setting... -N 15
+setting... -k 4
+setting... -mu 0.3
+setting... -maxk 14
+
+**************************************************************
+number of nodes:	15
+average degree:	4
+maximum degree:	14
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [3 , 14]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 15 vertices and 54 edges;	 average degree = 3.6
+
+average mixing parameter (in-links): 0.304978 +/- 0.192202
+average mixing parameter (out-links): 0.266667 +/- 0.275882
+p_in: 0.397222	p_out: 0.14
+
+
+N 15 -k 4 -mu 0.3 -maxk 14
+setting... -N 15
+setting... -k 4
+setting... -mu 0.3
+setting... -maxk 14
+
+**************************************************************
+number of nodes:	15
+average degree:	4
+maximum degree:	14
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [3 , 14]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 15 vertices and 77 edges;	 average degree = 5.13333
+
+average mixing parameter (in-links): 0.230462 +/- 0.161679
+average mixing parameter (out-links): 0.234444 +/- 0.28548
+p_in: 0.536111	p_out: 0.19
+
+
+N 15 -k 4 -mu 0.3 -maxk 14
+setting... -N 15
+setting... -k 4
+setting... -mu 0.3
+setting... -maxk 14
+
+**************************************************************
+number of nodes:	15
+average degree:	4
+maximum degree:	14
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [3 , 14]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 15 vertices and 67 edges;	 average degree = 4.46667
+
+average mixing parameter (in-links): 0 +/- 0
+average mixing parameter (out-links): 0 +/- 0
+p_in: 0.319048	p_out: 0
+
+
+N 15 -k 4 -mu 0.3 -maxk 14
+setting... -N 15
+setting... -k 4
+setting... -mu 0.3
+setting... -maxk 14
+
+**************************************************************
+number of nodes:	15
+average degree:	4
+maximum degree:	14
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [3 , 14]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 15 vertices and 61 edges;	 average degree = 4.06667
+
+average mixing parameter (in-links): 0.259206 +/- 0.18054
+average mixing parameter (out-links): 0.28 +/- 0.126227
+p_in: 0.452381	p_out: 0.151786
+
+
+N 15 -k 4 -mu 0.3 -maxk 14
+setting... -N 15
+setting... -k 4
+setting... -mu 0.3
+setting... -maxk 14
+
+**************************************************************
+number of nodes:	15
+average degree:	4
+maximum degree:	14
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [3 , 14]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 15 vertices and 60 edges;	 average degree = 4
+
+average mixing parameter (in-links): 0 +/- 0
+average mixing parameter (out-links): 0 +/- 0
+p_in: 0.285714	p_out: 0
+
+
+N 15 -k 4 -mu 0.3 -maxk 14
+setting... -N 15
+setting... -k 4
+setting... -mu 0.3
+setting... -maxk 14
+
+**************************************************************
+number of nodes:	15
+average degree:	4
+maximum degree:	14
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [3 , 14]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 15 vertices and 51 edges;	 average degree = 3.4
+
+average mixing parameter (in-links): 0 +/- 0
+average mixing parameter (out-links): 0 +/- 0
+p_in: 0.242857	p_out: 0
+
+
+N 15 -k 4 -mu 0.3 -maxk 14
+setting... -N 15
+setting... -k 4
+setting... -mu 0.3
+setting... -maxk 14
+
+**************************************************************
+number of nodes:	15
+average degree:	4
+maximum degree:	14
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [3 , 14]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 15 vertices and 49 edges;	 average degree = 3.26667
+
+average mixing parameter (in-links): 0 +/- 0
+average mixing parameter (out-links): 0 +/- 0
+p_in: 0.233333	p_out: 0
+
+
+N 15 -k 4 -mu 0.3 -maxk 14
+setting... -N 15
+setting... -k 4
+setting... -mu 0.3
+setting... -maxk 14
+
+**************************************************************
+number of nodes:	15
+average degree:	4
+maximum degree:	14
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [3 , 14]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 15 vertices and 66 edges;	 average degree = 4.4
+
+average mixing parameter (in-links): 0.262698 +/- 0.238827
+average mixing parameter (out-links): 0.25 +/- 0.286938
+p_in: 0.710317	p_out: 0.107354
+
+
+N 15 -k 4 -mu 0.3 -maxk 14
+setting... -N 15
+setting... -k 4
+setting... -mu 0.3
+setting... -maxk 14
+
+**************************************************************
+number of nodes:	15
+average degree:	4
+maximum degree:	14
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [3 , 14]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 15 vertices and 52 edges;	 average degree = 3.46667
+
+average mixing parameter (in-links): 0 +/- 0
+average mixing parameter (out-links): 0 +/- 0
+p_in: 0.247619	p_out: 0
+
+
+N 15 -k 4 -mu 0.3 -maxk 14
+setting... -N 15
+setting... -k 4
+setting... -mu 0.3
+setting... -maxk 14
+
+**************************************************************
+number of nodes:	15
+average degree:	4
+maximum degree:	14
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [3 , 14]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 15 vertices and 59 edges;	 average degree = 3.93333
+
+average mixing parameter (in-links): 0 +/- 0
+average mixing parameter (out-links): 0 +/- 0
+p_in: 0.280952	p_out: 0
+
+
+N 25 -k 4 -mu 0.3 -maxk 24
+setting... -N 25
+setting... -k 4
+setting... -mu 0.3
+setting... -maxk 24
+
+**************************************************************
+number of nodes:	25
+average degree:	4
+maximum degree:	24
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [3 , 24]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 25 vertices and 137 edges;	 average degree = 5.48
+
+average mixing parameter (in-links): 0 +/- 0
+average mixing parameter (out-links): 0 +/- 0
+p_in: 0.228333	p_out: 0
+
+
+N 25 -k 4 -mu 0.3 -maxk 24
+setting... -N 25
+setting... -k 4
+setting... -mu 0.3
+setting... -maxk 24
+
+**************************************************************
+number of nodes:	25
+average degree:	4
+maximum degree:	24
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [3 , 24]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 25 vertices and 122 edges;	 average degree = 4.88
+
+average mixing parameter (in-links): 0 +/- 0
+average mixing parameter (out-links): 0 +/- 0
+p_in: 0.203333	p_out: 0
+
+
+N 25 -k 4 -mu 0.3 -maxk 24
+setting... -N 25
+setting... -k 4
+setting... -mu 0.3
+setting... -maxk 24
+
+**************************************************************
+number of nodes:	25
+average degree:	4
+maximum degree:	24
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [3 , 24]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 25 vertices and 106 edges;	 average degree = 4.24
+
+average mixing parameter (in-links): 0.356813 +/- 0.139165
+average mixing parameter (out-links): 0.332667 +/- 0.16224
+p_in: 0.476094	p_out: 0.0842036
+
+
+N 25 -k 4 -mu 0.3 -maxk 24
+setting... -N 25
+setting... -k 4
+setting... -mu 0.3
+setting... -maxk 24
+
+**************************************************************
+number of nodes:	25
+average degree:	4
+maximum degree:	24
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [3 , 24]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 25 vertices and 115 edges;	 average degree = 4.6
+
+average mixing parameter (in-links): 0.252007 +/- 0.170408
+average mixing parameter (out-links): 0.28 +/- 0.155563
+p_in: 0.287005	p_out: 0.102564
+
+
+N 25 -k 4 -mu 0.3 -maxk 24
+setting... -N 25
+setting... -k 4
+setting... -mu 0.3
+setting... -maxk 24
+
+**************************************************************
+number of nodes:	25
+average degree:	4
+maximum degree:	24
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [3 , 24]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 25 vertices and 110 edges;	 average degree = 4.4
+
+average mixing parameter (in-links): 0 +/- 0
+average mixing parameter (out-links): 0 +/- 0
+p_in: 0.183333	p_out: 0
+
+
+N 25 -k 4 -mu 0.3 -maxk 24
+setting... -N 25
+setting... -k 4
+setting... -mu 0.3
+setting... -maxk 24
+
+**************************************************************
+number of nodes:	25
+average degree:	4
+maximum degree:	24
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [3 , 24]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 25 vertices and 86 edges;	 average degree = 3.44
+
+average mixing parameter (in-links): 0.264889 +/- 0.182234
+average mixing parameter (out-links): 0.26 +/- 0.309408
+p_in: 0.453571	p_out: 0.0500529
+
+
+N 25 -k 4 -mu 0.3 -maxk 24
+setting... -N 25
+setting... -k 4
+setting... -mu 0.3
+setting... -maxk 24
+
+**************************************************************
+number of nodes:	25
+average degree:	4
+maximum degree:	24
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [3 , 24]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 25 vertices and 106 edges;	 average degree = 4.24
+
+average mixing parameter (in-links): 0.284251 +/- 0.175132
+average mixing parameter (out-links): 0.284 +/- 0.282035
+p_in: 0.236111	p_out: 0.104167
+
+
+N 25 -k 4 -mu 0.3 -maxk 24
+setting... -N 25
+setting... -k 4
+setting... -mu 0.3
+setting... -maxk 24
+
+**************************************************************
+number of nodes:	25
+average degree:	4
+maximum degree:	24
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [3 , 24]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 25 vertices and 86 edges;	 average degree = 3.44
+
+average mixing parameter (in-links): 0 +/- 0
+average mixing parameter (out-links): 0 +/- 0
+p_in: 0.143333	p_out: 0
+
+
+N 25 -k 4 -mu 0.3 -maxk 24
+setting... -N 25
+setting... -k 4
+setting... -mu 0.3
+setting... -maxk 24
+
+**************************************************************
+number of nodes:	25
+average degree:	4
+maximum degree:	24
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [3 , 24]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 25 vertices and 93 edges;	 average degree = 3.72
+
+average mixing parameter (in-links): 0.315212 +/- 0.179033
+average mixing parameter (out-links): 0.31 +/- 0.207525
+p_in: 0.521726	p_out: 0.0616457
+
+
+N 25 -k 4 -mu 0.3 -maxk 24
+setting... -N 25
+setting... -k 4
+setting... -mu 0.3
+setting... -maxk 24
+
+**************************************************************
+number of nodes:	25
+average degree:	4
+maximum degree:	24
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [3 , 24]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 25 vertices and 105 edges;	 average degree = 4.2
+
+average mixing parameter (in-links): 0.210242 +/- 0.201125
+average mixing parameter (out-links): 0.23 +/- 0.272029
+p_in: 0.260504	p_out: 0.0919118
+
+
+N 50 -k 22 -mu 0.3 -maxk 49
+setting... -N 50
+setting... -k 22
+setting... -mu 0.3
+setting... -maxk 49
+
+**************************************************************
+number of nodes:	50
+average degree:	22
+maximum degree:	49
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [12 , 49]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 50 vertices and 959 edges;	 average degree = 19.18
+
+average mixing parameter (in-links): 0 +/- 0
+average mixing parameter (out-links): 0 +/- 0
+p_in: 0.391429	p_out: 0
+
+
+N 50 -k 22 -mu 0.3 -maxk 49
+setting... -N 50
+setting... -k 22
+setting... -mu 0.3
+setting... -maxk 49
+
+**************************************************************
+number of nodes:	50
+average degree:	22
+maximum degree:	49
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [12 , 49]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 50 vertices and 1067 edges;	 average degree = 21.34
+
+average mixing parameter (in-links): 0 +/- 0
+average mixing parameter (out-links): 0 +/- 0
+p_in: 0.43551	p_out: 0
+
+
+N 50 -k 22 -mu 0.3 -maxk 49
+setting... -N 50
+setting... -k 22
+setting... -mu 0.3
+setting... -maxk 49
+
+**************************************************************
+number of nodes:	50
+average degree:	22
+maximum degree:	49
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [12 , 49]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 50 vertices and 967 edges;	 average degree = 19.34
+
+average mixing parameter (in-links): 0 +/- 0
+average mixing parameter (out-links): 0 +/- 0
+p_in: 0.394694	p_out: 0
+
+
+N 50 -k 22 -mu 0.3 -maxk 49
+setting... -N 50
+setting... -k 22
+setting... -mu 0.3
+setting... -maxk 49
+
+**************************************************************
+number of nodes:	50
+average degree:	22
+maximum degree:	49
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [12 , 49]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 50 vertices and 1120 edges;	 average degree = 22.4
+
+average mixing parameter (in-links): 0.240156 +/- 0.0679518
+average mixing parameter (out-links): 0.22267 +/- 0.204425
+p_in: 0.697059	p_out: 0.246667
+
+
+N 50 -k 22 -mu 0.3 -maxk 49
+setting... -N 50
+setting... -k 22
+setting... -mu 0.3
+setting... -maxk 49
+
+**************************************************************
+number of nodes:	50
+average degree:	22
+maximum degree:	49
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [12 , 49]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 50 vertices and 959 edges;	 average degree = 19.18
+
+average mixing parameter (in-links): 0 +/- 0
+average mixing parameter (out-links): 0 +/- 0
+p_in: 0.391429	p_out: 0
+
+
+N 50 -k 22 -mu 0.3 -maxk 49
+setting... -N 50
+setting... -k 22
+setting... -mu 0.3
+setting... -maxk 49
+
+**************************************************************
+number of nodes:	50
+average degree:	22
+maximum degree:	49
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [12 , 49]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 50 vertices and 965 edges;	 average degree = 19.3
+
+average mixing parameter (in-links): 0 +/- 0
+average mixing parameter (out-links): 0 +/- 0
+p_in: 0.393878	p_out: 0
+
+
+N 50 -k 22 -mu 0.3 -maxk 49
+setting... -N 50
+setting... -k 22
+setting... -mu 0.3
+setting... -maxk 49
+
+**************************************************************
+number of nodes:	50
+average degree:	22
+maximum degree:	49
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [12 , 49]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 50 vertices and 1056 edges;	 average degree = 21.12
+
+average mixing parameter (in-links): 0 +/- 0
+average mixing parameter (out-links): 0 +/- 0
+p_in: 0.43102	p_out: 0
+
+
+N 50 -k 22 -mu 0.3 -maxk 49
+setting... -N 50
+setting... -k 22
+setting... -mu 0.3
+setting... -maxk 49
+
+**************************************************************
+number of nodes:	50
+average degree:	22
+maximum degree:	49
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [12 , 49]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 50 vertices and 952 edges;	 average degree = 19.04
+
+average mixing parameter (in-links): 0 +/- 0
+average mixing parameter (out-links): 0 +/- 0
+p_in: 0.388571	p_out: 0
+
+
+N 50 -k 22 -mu 0.3 -maxk 49
+setting... -N 50
+setting... -k 22
+setting... -mu 0.3
+setting... -maxk 49
+
+**************************************************************
+number of nodes:	50
+average degree:	22
+maximum degree:	49
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [12 , 49]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 50 vertices and 923 edges;	 average degree = 18.46
+
+average mixing parameter (in-links): 0 +/- 0
+average mixing parameter (out-links): 0 +/- 0
+p_in: 0.376735	p_out: 0
+
+
+N 50 -k 22 -mu 0.3 -maxk 49
+setting... -N 50
+setting... -k 22
+setting... -mu 0.3
+setting... -maxk 49
+
+**************************************************************
+number of nodes:	50
+average degree:	22
+maximum degree:	49
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [12 , 49]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 50 vertices and 974 edges;	 average degree = 19.48
+
+average mixing parameter (in-links): 0 +/- 0
+average mixing parameter (out-links): 0 +/- 0
+p_in: 0.397551	p_out: 0
+
+
+N 100 -k 44 -mu 0.3 -maxk 99
+setting... -N 100
+setting... -k 44
+setting... -mu 0.3
+setting... -maxk 99
+
+**************************************************************
+number of nodes:	100
+average degree:	44
+maximum degree:	99
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [24 , 99]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 100 vertices and 3727 edges;	 average degree = 37.27
+
+average mixing parameter (in-links): 0 +/- 0
+average mixing parameter (out-links): 0 +/- 0
+p_in: 0.376465	p_out: 0
+
+
+N 100 -k 44 -mu 0.3 -maxk 99
+setting... -N 100
+setting... -k 44
+setting... -mu 0.3
+setting... -maxk 99
+
+**************************************************************
+number of nodes:	100
+average degree:	44
+maximum degree:	99
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [24 , 99]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 100 vertices and 3883 edges;	 average degree = 38.83
+
+average mixing parameter (in-links): 0 +/- 0
+average mixing parameter (out-links): 0 +/- 0
+p_in: 0.392222	p_out: 0
+
+
+N 100 -k 44 -mu 0.3 -maxk 99
+setting... -N 100
+setting... -k 44
+setting... -mu 0.3
+setting... -maxk 99
+
+**************************************************************
+number of nodes:	100
+average degree:	44
+maximum degree:	99
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [24 , 99]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 100 vertices and 3726 edges;	 average degree = 37.26
+
+average mixing parameter (in-links): 0 +/- 0
+average mixing parameter (out-links): 0 +/- 0
+p_in: 0.376364	p_out: 0
+
+
+N 100 -k 44 -mu 0.3 -maxk 99
+setting... -N 100
+setting... -k 44
+setting... -mu 0.3
+setting... -maxk 99
+
+**************************************************************
+number of nodes:	100
+average degree:	44
+maximum degree:	99
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [24 , 99]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 100 vertices and 3796 edges;	 average degree = 37.96
+
+average mixing parameter (in-links): 0 +/- 0
+average mixing parameter (out-links): 0 +/- 0
+p_in: 0.383434	p_out: 0
+
+
+N 100 -k 44 -mu 0.3 -maxk 99
+setting... -N 100
+setting... -k 44
+setting... -mu 0.3
+setting... -maxk 99
+
+**************************************************************
+number of nodes:	100
+average degree:	44
+maximum degree:	99
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [24 , 99]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 100 vertices and 3845 edges;	 average degree = 38.45
+
+average mixing parameter (in-links): 0 +/- 0
+average mixing parameter (out-links): 0 +/- 0
+p_in: 0.388384	p_out: 0
+
+
+N 100 -k 44 -mu 0.3 -maxk 99
+setting... -N 100
+setting... -k 44
+setting... -mu 0.3
+setting... -maxk 99
+
+**************************************************************
+number of nodes:	100
+average degree:	44
+maximum degree:	99
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [24 , 99]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 100 vertices and 3983 edges;	 average degree = 39.83
+
+average mixing parameter (in-links): 0 +/- 0
+average mixing parameter (out-links): 0 +/- 0
+p_in: 0.402323	p_out: 0
+
+
+N 100 -k 44 -mu 0.3 -maxk 99
+setting... -N 100
+setting... -k 44
+setting... -mu 0.3
+setting... -maxk 99
+
+**************************************************************
+number of nodes:	100
+average degree:	44
+maximum degree:	99
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [24 , 99]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 100 vertices and 4206 edges;	 average degree = 42.06
+
+average mixing parameter (in-links): 0 +/- 0
+average mixing parameter (out-links): 0 +/- 0
+p_in: 0.424848	p_out: 0
+
+
+N 100 -k 44 -mu 0.3 -maxk 99
+setting... -N 100
+setting... -k 44
+setting... -mu 0.3
+setting... -maxk 99
+
+**************************************************************
+number of nodes:	100
+average degree:	44
+maximum degree:	99
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [24 , 99]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 100 vertices and 3912 edges;	 average degree = 39.12
+
+average mixing parameter (in-links): 0 +/- 0
+average mixing parameter (out-links): 0 +/- 0
+p_in: 0.395152	p_out: 0
+
+
+N 100 -k 44 -mu 0.3 -maxk 99
+setting... -N 100
+setting... -k 44
+setting... -mu 0.3
+setting... -maxk 99
+
+**************************************************************
+number of nodes:	100
+average degree:	44
+maximum degree:	99
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [24 , 99]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 100 vertices and 3901 edges;	 average degree = 39.01
+
+average mixing parameter (in-links): 0 +/- 0
+average mixing parameter (out-links): 0 +/- 0
+p_in: 0.39404	p_out: 0
+
+
+N 100 -k 44 -mu 0.3 -maxk 99
+setting... -N 100
+setting... -k 44
+setting... -mu 0.3
+setting... -maxk 99
+
+**************************************************************
+number of nodes:	100
+average degree:	44
+maximum degree:	99
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [24 , 99]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 100 vertices and 4199 edges;	 average degree = 41.99
+
+average mixing parameter (in-links): 0 +/- 0
+average mixing parameter (out-links): 0 +/- 0
+p_in: 0.424141	p_out: 0
+
+
+N 200 -k 88 -mu 0.3 -maxk 199
+setting... -N 200
+setting... -k 88
+setting... -mu 0.3
+setting... -maxk 199
+
+**************************************************************
+number of nodes:	200
+average degree:	88
+maximum degree:	199
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [47 , 199]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 200 vertices and 16731 edges;	 average degree = 83.655
+
+average mixing parameter (in-links): 0 +/- 0
+average mixing parameter (out-links): 0 +/- 0
+p_in: 0.420377	p_out: 0
+
+
+N 200 -k 88 -mu 0.3 -maxk 199
+setting... -N 200
+setting... -k 88
+setting... -mu 0.3
+setting... -maxk 199
+
+**************************************************************
+number of nodes:	200
+average degree:	88
+maximum degree:	199
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [47 , 199]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 200 vertices and 16413 edges;	 average degree = 82.065
+
+average mixing parameter (in-links): 0.252465 +/- 0.0490776
+average mixing parameter (out-links): 0.228598 +/- 0.193688
+p_in: 0.609521	p_out: 0.226683
+
+
+N 200 -k 88 -mu 0.3 -maxk 199
+setting... -N 200
+setting... -k 88
+setting... -mu 0.3
+setting... -maxk 199
+
+**************************************************************
+number of nodes:	200
+average degree:	88
+maximum degree:	199
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [47 , 199]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 200 vertices and 15277 edges;	 average degree = 76.385
+
+average mixing parameter (in-links): 0 +/- 0
+average mixing parameter (out-links): 0 +/- 0
+p_in: 0.383844	p_out: 0
+
+
+N 200 -k 88 -mu 0.3 -maxk 199
+setting... -N 200
+setting... -k 88
+setting... -mu 0.3
+setting... -maxk 199
+
+**************************************************************
+number of nodes:	200
+average degree:	88
+maximum degree:	199
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [47 , 199]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 200 vertices and 16089 edges;	 average degree = 80.445
+
+average mixing parameter (in-links): 0 +/- 0
+average mixing parameter (out-links): 0 +/- 0
+p_in: 0.404246	p_out: 0
+
+
+N 200 -k 88 -mu 0.3 -maxk 199
+setting... -N 200
+setting... -k 88
+setting... -mu 0.3
+setting... -maxk 199
+
+**************************************************************
+number of nodes:	200
+average degree:	88
+maximum degree:	199
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [47 , 199]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 200 vertices and 15376 edges;	 average degree = 76.88
+
+average mixing parameter (in-links): 0 +/- 0
+average mixing parameter (out-links): 0 +/- 0
+p_in: 0.386332	p_out: 0
+
+
+N 200 -k 88 -mu 0.3 -maxk 199
+setting... -N 200
+setting... -k 88
+setting... -mu 0.3
+setting... -maxk 199
+
+**************************************************************
+number of nodes:	200
+average degree:	88
+maximum degree:	199
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [47 , 199]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 200 vertices and 15030 edges;	 average degree = 75.15
+
+average mixing parameter (in-links): 0 +/- 0
+average mixing parameter (out-links): 0 +/- 0
+p_in: 0.377638	p_out: 0
+
+
+N 200 -k 88 -mu 0.3 -maxk 199
+setting... -N 200
+setting... -k 88
+setting... -mu 0.3
+setting... -maxk 199
+
+**************************************************************
+number of nodes:	200
+average degree:	88
+maximum degree:	199
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [47 , 199]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 200 vertices and 16114 edges;	 average degree = 80.57
+
+average mixing parameter (in-links): 0 +/- 0
+average mixing parameter (out-links): 0 +/- 0
+p_in: 0.404874	p_out: 0
+
+
+N 200 -k 88 -mu 0.3 -maxk 199
+setting... -N 200
+setting... -k 88
+setting... -mu 0.3
+setting... -maxk 199
+
+**************************************************************
+number of nodes:	200
+average degree:	88
+maximum degree:	199
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [47 , 199]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 200 vertices and 15349 edges;	 average degree = 76.745
+
+average mixing parameter (in-links): 0 +/- 0
+average mixing parameter (out-links): 0 +/- 0
+p_in: 0.385653	p_out: 0
+
+
+N 200 -k 88 -mu 0.3 -maxk 199
+setting... -N 200
+setting... -k 88
+setting... -mu 0.3
+setting... -maxk 199
+
+**************************************************************
+number of nodes:	200
+average degree:	88
+maximum degree:	199
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [47 , 199]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 200 vertices and 16432 edges;	 average degree = 82.16
+
+average mixing parameter (in-links): 0 +/- 0
+average mixing parameter (out-links): 0 +/- 0
+p_in: 0.412864	p_out: 0
+
+
+N 200 -k 88 -mu 0.3 -maxk 199
+setting... -N 200
+setting... -k 88
+setting... -mu 0.3
+setting... -maxk 199
+
+**************************************************************
+number of nodes:	200
+average degree:	88
+maximum degree:	199
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [47 , 199]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 200 vertices and 16540 edges;	 average degree = 82.7
+
+average mixing parameter (in-links): 0.248128 +/- 0.0495722
+average mixing parameter (out-links): 0.228097 +/- 0.181758
+p_in: 0.621679	p_out: 0.224829
+
+
+N 300 -k 133 -mu 0.3 -maxk 299
+setting... -N 300
+setting... -k 133
+setting... -mu 0.3
+setting... -maxk 299
+
+**************************************************************
+number of nodes:	300
+average degree:	133
+maximum degree:	299
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [71 , 299]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 300 vertices and 35111 edges;	 average degree = 117.037
+
+average mixing parameter (in-links): 0 +/- 0
+average mixing parameter (out-links): 0 +/- 0
+p_in: 0.391427	p_out: 0
+
+
+N 300 -k 133 -mu 0.3 -maxk 299
+setting... -N 300
+setting... -k 133
+setting... -mu 0.3
+setting... -maxk 299
+
+**************************************************************
+number of nodes:	300
+average degree:	133
+maximum degree:	299
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [71 , 299]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 300 vertices and 35531 edges;	 average degree = 118.437
+
+average mixing parameter (in-links): 0 +/- 0
+average mixing parameter (out-links): 0 +/- 0
+p_in: 0.396109	p_out: 0
+
+
+N 300 -k 133 -mu 0.3 -maxk 299
+setting... -N 300
+setting... -k 133
+setting... -mu 0.3
+setting... -maxk 299
+
+**************************************************************
+number of nodes:	300
+average degree:	133
+maximum degree:	299
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [71 , 299]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 300 vertices and 36840 edges;	 average degree = 122.8
+
+average mixing parameter (in-links): 0 +/- 0
+average mixing parameter (out-links): 0 +/- 0
+p_in: 0.410702	p_out: 0
+
+
+N 300 -k 133 -mu 0.3 -maxk 299
+setting... -N 300
+setting... -k 133
+setting... -mu 0.3
+setting... -maxk 299
+
+**************************************************************
+number of nodes:	300
+average degree:	133
+maximum degree:	299
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [71 , 299]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 300 vertices and 35565 edges;	 average degree = 118.55
+
+average mixing parameter (in-links): 0 +/- 0
+average mixing parameter (out-links): 0 +/- 0
+p_in: 0.396488	p_out: 0
+
+
+N 300 -k 133 -mu 0.3 -maxk 299
+setting... -N 300
+setting... -k 133
+setting... -mu 0.3
+setting... -maxk 299
+
+**************************************************************
+number of nodes:	300
+average degree:	133
+maximum degree:	299
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [71 , 299]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 300 vertices and 36413 edges;	 average degree = 121.377
+
+average mixing parameter (in-links): 0 +/- 0
+average mixing parameter (out-links): 0 +/- 0
+p_in: 0.405942	p_out: 0
+
+
+N 300 -k 133 -mu 0.3 -maxk 299
+setting... -N 300
+setting... -k 133
+setting... -mu 0.3
+setting... -maxk 299
+
+**************************************************************
+number of nodes:	300
+average degree:	133
+maximum degree:	299
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [71 , 299]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 300 vertices and 36519 edges;	 average degree = 121.73
+
+average mixing parameter (in-links): 0 +/- 0
+average mixing parameter (out-links): 0 +/- 0
+p_in: 0.407124	p_out: 0
+
+
+N 300 -k 133 -mu 0.3 -maxk 299
+setting... -N 300
+setting... -k 133
+setting... -mu 0.3
+setting... -maxk 299
+
+**************************************************************
+number of nodes:	300
+average degree:	133
+maximum degree:	299
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [71 , 299]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 300 vertices and 36947 edges;	 average degree = 123.157
+
+average mixing parameter (in-links): 0 +/- 0
+average mixing parameter (out-links): 0 +/- 0
+p_in: 0.411895	p_out: 0
+
+
+N 300 -k 133 -mu 0.3 -maxk 299
+setting... -N 300
+setting... -k 133
+setting... -mu 0.3
+setting... -maxk 299
+
+**************************************************************
+number of nodes:	300
+average degree:	133
+maximum degree:	299
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [71 , 299]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 300 vertices and 35386 edges;	 average degree = 117.953
+
+average mixing parameter (in-links): 0 +/- 0
+average mixing parameter (out-links): 0 +/- 0
+p_in: 0.394493	p_out: 0
+
+
+N 300 -k 133 -mu 0.3 -maxk 299
+setting... -N 300
+setting... -k 133
+setting... -mu 0.3
+setting... -maxk 299
+
+**************************************************************
+number of nodes:	300
+average degree:	133
+maximum degree:	299
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [71 , 299]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 300 vertices and 35569 edges;	 average degree = 118.563
+
+average mixing parameter (in-links): 0 +/- 0
+average mixing parameter (out-links): 0 +/- 0
+p_in: 0.396533	p_out: 0
+
+
+N 300 -k 133 -mu 0.3 -maxk 299
+setting... -N 300
+setting... -k 133
+setting... -mu 0.3
+setting... -maxk 299
+
+**************************************************************
+number of nodes:	300
+average degree:	133
+maximum degree:	299
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [71 , 299]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 300 vertices and 36550 edges;	 average degree = 121.833
+
+average mixing parameter (in-links): 0.242942 +/- 0.0537823
+average mixing parameter (out-links): 0.217983 +/- 0.18821
+p_in: 0.61975	p_out: 0.219793
+
+
+N 400 -k 177 -mu 0.3 -maxk 399
+setting... -N 400
+setting... -k 177
+setting... -mu 0.3
+setting... -maxk 399
+
+**************************************************************
+number of nodes:	400
+average degree:	177
+maximum degree:	399
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [94 , 399]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 400 vertices and 68444 edges;	 average degree = 171.11
+
+average mixing parameter (in-links): 0.250389 +/- 0.049438
+average mixing parameter (out-links): 0.225743 +/- 0.194978
+p_in: 0.632845	p_out: 0.235597
+
+
+N 400 -k 177 -mu 0.3 -maxk 399
+setting... -N 400
+setting... -k 177
+setting... -mu 0.3
+setting... -maxk 399
+
+**************************************************************
+number of nodes:	400
+average degree:	177
+maximum degree:	399
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [94 , 399]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 400 vertices and 63501 edges;	 average degree = 158.752
+
+average mixing parameter (in-links): 0 +/- 0
+average mixing parameter (out-links): 0 +/- 0
+p_in: 0.397876	p_out: 0
+
+
+N 400 -k 177 -mu 0.3 -maxk 399
+setting... -N 400
+setting... -k 177
+setting... -mu 0.3
+setting... -maxk 399
+
+**************************************************************
+number of nodes:	400
+average degree:	177
+maximum degree:	399
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [94 , 399]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 400 vertices and 60876 edges;	 average degree = 152.19
+
+average mixing parameter (in-links): 0 +/- 0
+average mixing parameter (out-links): 0 +/- 0
+p_in: 0.381429	p_out: 0
+
+
+N 400 -k 177 -mu 0.3 -maxk 399
+setting... -N 400
+setting... -k 177
+setting... -mu 0.3
+setting... -maxk 399
+
+**************************************************************
+number of nodes:	400
+average degree:	177
+maximum degree:	399
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [94 , 399]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 400 vertices and 63380 edges;	 average degree = 158.45
+
+average mixing parameter (in-links): 0 +/- 0
+average mixing parameter (out-links): 0 +/- 0
+p_in: 0.397118	p_out: 0
+
+
+N 400 -k 177 -mu 0.3 -maxk 399
+setting... -N 400
+setting... -k 177
+setting... -mu 0.3
+setting... -maxk 399
+
+**************************************************************
+number of nodes:	400
+average degree:	177
+maximum degree:	399
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [94 , 399]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 400 vertices and 61907 edges;	 average degree = 154.768
+
+average mixing parameter (in-links): 0 +/- 0
+average mixing parameter (out-links): 0 +/- 0
+p_in: 0.387888	p_out: 0
+
+
+N 400 -k 177 -mu 0.3 -maxk 399
+setting... -N 400
+setting... -k 177
+setting... -mu 0.3
+setting... -maxk 399
+
+**************************************************************
+number of nodes:	400
+average degree:	177
+maximum degree:	399
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [94 , 399]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 400 vertices and 68855 edges;	 average degree = 172.137
+
+average mixing parameter (in-links): 0.250185 +/- 0.0502112
+average mixing parameter (out-links): 0.225506 +/- 0.193152
+p_in: 0.63901	p_out: 0.236983
+
+
+N 400 -k 177 -mu 0.3 -maxk 399
+setting... -N 400
+setting... -k 177
+setting... -mu 0.3
+setting... -maxk 399
+
+**************************************************************
+number of nodes:	400
+average degree:	177
+maximum degree:	399
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [94 , 399]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 400 vertices and 66248 edges;	 average degree = 165.62
+
+average mixing parameter (in-links): 0.244944 +/- 0.0521902
+average mixing parameter (out-links): 0.221051 +/- 0.184408
+p_in: 0.628444	p_out: 0.224296
+
+
+N 400 -k 177 -mu 0.3 -maxk 399
+setting... -N 400
+setting... -k 177
+setting... -mu 0.3
+setting... -maxk 399
+
+**************************************************************
+number of nodes:	400
+average degree:	177
+maximum degree:	399
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [94 , 399]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 400 vertices and 62680 edges;	 average degree = 156.7
+
+average mixing parameter (in-links): 0 +/- 0
+average mixing parameter (out-links): 0 +/- 0
+p_in: 0.392732	p_out: 0
+
+
+N 400 -k 177 -mu 0.3 -maxk 399
+setting... -N 400
+setting... -k 177
+setting... -mu 0.3
+setting... -maxk 399
+
+**************************************************************
+number of nodes:	400
+average degree:	177
+maximum degree:	399
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [94 , 399]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 400 vertices and 62432 edges;	 average degree = 156.08
+
+average mixing parameter (in-links): 0 +/- 0
+average mixing parameter (out-links): 0 +/- 0
+p_in: 0.391178	p_out: 0
+
+
+N 400 -k 177 -mu 0.3 -maxk 399
+setting... -N 400
+setting... -k 177
+setting... -mu 0.3
+setting... -maxk 399
+
+**************************************************************
+number of nodes:	400
+average degree:	177
+maximum degree:	399
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [94 , 399]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 400 vertices and 61839 edges;	 average degree = 154.597
+
+average mixing parameter (in-links): 0 +/- 0
+average mixing parameter (out-links): 0 +/- 0
+p_in: 0.387462	p_out: 0
+
+
+N 500 -k 222 -mu 0.3 -maxk 499
+setting... -N 500
+setting... -k 222
+setting... -mu 0.3
+setting... -maxk 499
+
+**************************************************************
+number of nodes:	500
+average degree:	222
+maximum degree:	499
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [118 , 499]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 500 vertices and 97701 edges;	 average degree = 195.402
+
+average mixing parameter (in-links): 0 +/- 0
+average mixing parameter (out-links): 0 +/- 0
+p_in: 0.391587	p_out: 0
+
+
+N 500 -k 222 -mu 0.3 -maxk 499
+setting... -N 500
+setting... -k 222
+setting... -mu 0.3
+setting... -maxk 499
+
+**************************************************************
+number of nodes:	500
+average degree:	222
+maximum degree:	499
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [118 , 499]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 500 vertices and 101458 edges;	 average degree = 202.916
+
+average mixing parameter (in-links): 0 +/- 0
+average mixing parameter (out-links): 0 +/- 0
+p_in: 0.406645	p_out: 0
+
+
+N 500 -k 222 -mu 0.3 -maxk 499
+setting... -N 500
+setting... -k 222
+setting... -mu 0.3
+setting... -maxk 499
+
+**************************************************************
+number of nodes:	500
+average degree:	222
+maximum degree:	499
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [118 , 499]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 500 vertices and 98462 edges;	 average degree = 196.924
+
+average mixing parameter (in-links): 0 +/- 0
+average mixing parameter (out-links): 0 +/- 0
+p_in: 0.394637	p_out: 0
+
+
+N 500 -k 222 -mu 0.3 -maxk 499
+setting... -N 500
+setting... -k 222
+setting... -mu 0.3
+setting... -maxk 499
+
+**************************************************************
+number of nodes:	500
+average degree:	222
+maximum degree:	499
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [118 , 499]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 500 vertices and 98738 edges;	 average degree = 197.476
+
+average mixing parameter (in-links): 0 +/- 0
+average mixing parameter (out-links): 0 +/- 0
+p_in: 0.395743	p_out: 0
+
+
+N 500 -k 222 -mu 0.3 -maxk 499
+setting... -N 500
+setting... -k 222
+setting... -mu 0.3
+setting... -maxk 499
+
+**************************************************************
+number of nodes:	500
+average degree:	222
+maximum degree:	499
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [118 , 499]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 500 vertices and 99266 edges;	 average degree = 198.532
+
+average mixing parameter (in-links): 0 +/- 0
+average mixing parameter (out-links): 0 +/- 0
+p_in: 0.39786	p_out: 0
+
+
+N 500 -k 222 -mu 0.3 -maxk 499
+setting... -N 500
+setting... -k 222
+setting... -mu 0.3
+setting... -maxk 499
+
+**************************************************************
+number of nodes:	500
+average degree:	222
+maximum degree:	499
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [118 , 499]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 500 vertices and 97583 edges;	 average degree = 195.166
+
+average mixing parameter (in-links): 0 +/- 0
+average mixing parameter (out-links): 0 +/- 0
+p_in: 0.391114	p_out: 0
+
+
+N 500 -k 222 -mu 0.3 -maxk 499
+setting... -N 500
+setting... -k 222
+setting... -mu 0.3
+setting... -maxk 499
+
+**************************************************************
+number of nodes:	500
+average degree:	222
+maximum degree:	499
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [118 , 499]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 500 vertices and 99638 edges;	 average degree = 199.276
+
+average mixing parameter (in-links): 0 +/- 0
+average mixing parameter (out-links): 0 +/- 0
+p_in: 0.399351	p_out: 0
+
+
+N 500 -k 222 -mu 0.3 -maxk 499
+setting... -N 500
+setting... -k 222
+setting... -mu 0.3
+setting... -maxk 499
+
+**************************************************************
+number of nodes:	500
+average degree:	222
+maximum degree:	499
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [118 , 499]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 500 vertices and 98096 edges;	 average degree = 196.192
+
+average mixing parameter (in-links): 0 +/- 0
+average mixing parameter (out-links): 0 +/- 0
+p_in: 0.39317	p_out: 0
+
+
+N 500 -k 222 -mu 0.3 -maxk 499
+setting... -N 500
+setting... -k 222
+setting... -mu 0.3
+setting... -maxk 499
+
+**************************************************************
+number of nodes:	500
+average degree:	222
+maximum degree:	499
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [118 , 499]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 500 vertices and 99300 edges;	 average degree = 198.6
+
+average mixing parameter (in-links): 0 +/- 0
+average mixing parameter (out-links): 0 +/- 0
+p_in: 0.397996	p_out: 0
+
+
+N 500 -k 222 -mu 0.3 -maxk 499
+setting... -N 500
+setting... -k 222
+setting... -mu 0.3
+setting... -maxk 499
+
+**************************************************************
+number of nodes:	500
+average degree:	222
+maximum degree:	499
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.3
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [118 , 499]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 500 vertices and 99113 edges;	 average degree = 198.226
+
+average mixing parameter (in-links): 0 +/- 0
+average mixing parameter (out-links): 0 +/- 0
+p_in: 0.397246	p_out: 0
+
+
+
+
+
+
+
+
+
+
+
+
+Number of genereted files in network:
+      81
+Number of genereted files in statistics:
+      81
+Number of genereted files in community:
+      81

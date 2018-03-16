@@ -1,0 +1,38 @@
+degree distribution (probability density function of the degree in logarithmic bins) 
+2	0.806364
+3	0.419155
+4	0.048952
+5	0.120056
+7.33333	0.0802367
+9	0.0218648
+15	0.0146128
+
+degree distribution (degree-occurrences) 
+2	0.36
+3	0.28
+4	0.04
+5	0.12
+7	0.08
+8	0.04
+9	0.04
+15	0.04
+
+
+--------------------------------------
+community distribution (size-occurrences)
+4	0.25
+5	0.5
+11	0.25
+
+
+--------------------------------------
+mixing parameter
+0	0.16
+0.142857	0.08
+0.2	0.08
+0.25	0.04
+0.333333	0.32
+0.5	0.28
+0.666667	0.04
+
+--------------------------------------

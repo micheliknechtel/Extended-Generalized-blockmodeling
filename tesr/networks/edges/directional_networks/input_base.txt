@@ -1,0 +1,90 @@
+N 15 -k 4 -mu 0.1 -maxk 14  
+N 15 -k 4 -mu 0.2 -maxk 14
+N 15 -k 4 -mu 0.3 -maxk 14
+N 15 -k 4 -mu 0.4 -maxk 14  
+N 15 -k 4 -mu 0.5 -maxk 14
+N 15 -k 4 -mu 0.6 -maxk 14
+
+N 15 -k 6 -mu 0.1 -maxk 14  
+N 15 -k 6 -mu 0.2 -maxk 14
+N 15 -k 6 -mu 0.3 -maxk 14
+N 15 -k 6 -mu 0.4 -maxk 14  
+N 15 -k 6 -mu 0.5 -maxk 14
+N 15 -k 6 -mu 0.6 -maxk 14
+
+N 15 -k 10 -mu 0.1 -maxk 14  
+N 15 -k 10 -mu 0.2 -maxk 14
+N 15 -k 10 -mu 0.3 -maxk 14
+N 15 -k 10 -mu 0.4 -maxk 14  
+N 15 -k 10 -mu 0.5 -maxk 14
+N 15 -k 10 -mu 0.6 -maxk 14
+
+N 20 -k 4 -mu 0.1 -maxk 19  
+N 20 -k 4 -mu 0.2 -maxk 19
+N 20 -k 4 -mu 0.3 -maxk 19
+N 20 -k 4 -mu 0.4 -maxk 19  
+N 20 -k 4 -mu 0.5 -maxk 19
+N 20 -k 4 -mu 0.6 -maxk 19
+
+N 20 -k 8 -mu 0.1 -maxk 19  
+N 20 -k 8 -mu 0.2 -maxk 19
+N 20 -k 8 -mu 0.3 -maxk 19
+N 20 -k 8 -mu 0.4 -maxk 19  
+N 20 -k 8 -mu 0.5 -maxk 19
+N 20 -k 8 -mu 0.6 -maxk 19
+
+N 20 -k 13 -mu 0.1 -maxk 19  
+N 20 -k 13 -mu 0.2 -maxk 19
+N 20 -k 13 -mu 0.3 -maxk 19
+N 20 -k 13 -mu 0.4 -maxk 19  
+N 20 -k 13 -mu 0.5 -maxk 19
+N 20 -k 13 -mu 0.6 -maxk 19
+
+N 25 -k 4 -mu 0.1 -maxk 24  
+N 25 -k 4 -mu 0.2 -maxk 24
+N 25 -k 4 -mu 0.3 -maxk 24
+N 25 -k 4 -mu 0.4 -maxk 24  
+N 25 -k 4 -mu 0.5 -maxk 24
+N 25 -k 4 -mu 0.6 -maxk 24
+
+N 25 -k 11 -mu 0.1 -maxk 24  
+N 25 -k 11 -mu 0.2 -maxk 24
+N 25 -k 11 -mu 0.3 -maxk 24
+N 25 -k 11 -mu 0.4 -maxk 24  
+N 25 -k 11 -mu 0.5 -maxk 24
+N 25 -k 11 -mu 0.6 -maxk 24
+
+N 25 -k 16 -mu 0.1 -maxk 24  
+N 25 -k 16 -mu 0.2 -maxk 24
+N 25 -k 16 -mu 0.3 -maxk 24
+N 25 -k 16 -mu 0.4 -maxk 24  
+N 25 -k 16 -mu 0.5 -maxk 24
+N 25 -k 16 -mu 0.6 -maxk 24
+
+++++++++++++++++++++++++++++
+K = 4 ... 4N/9 ... K=2N/3
+
+N 50 -k 4 -mu 0.1 -maxk 49  
+N 50 -k 4 -mu 0.3 -maxk 49
+N 50 -k 4 -mu 0.6 -maxk 49
+
+N 50 -k 22 -mu 0.1 -maxk 49  
+N 50 -k 22 -mu 0.3 -maxk 49
+N 50 -k 22 -mu 0.6 -maxk 49
+
+N 50 -k 33 -mu 0.1 -maxk 49  
+N 50 -k 33 -mu 0.3 -maxk 49
+N 50 -k 33 -mu 0.6 -maxk 49
+
++++++++++++++++++++++++++++
+N 100 -k 4 -mu 0.1 -maxk 99  
+N 100 -k 4 -mu 0.3 -maxk 99
+N 100 -k 4 -mu 0.6 -maxk 99
+
+N 100 -k 44 -mu 0.1 -maxk 99  
+N 100 -k 44 -mu 0.3 -maxk 99
+N 100 -k 44 -mu 0.6 -maxk 99
+
+N 100 -k 66 -mu 0.1 -maxk 99  
+N 100 -k 66 -mu 0.3 -maxk 99
+N 100 -k 66 -mu 0.6 -maxk 99
